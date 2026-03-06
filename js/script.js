@@ -316,4 +316,4 @@ if (playStoreBadge && !playStoreBadge.src) {
     playStoreBadge.src = canvas.toDataURL();
 }
 
-console.log('The Mann Maker - Website Loaded Successfully!');
+console.log('Course Website - Website Loaded Successfully!');

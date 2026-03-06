@@ -1,4 +1,4 @@
-# 🎓 The Mann Maker - Website Clone Summary
+# 🎓 Course Website - Website Clone Summary
 
 ## ✅ Project Completed Successfully!
 
@@ -131,7 +131,7 @@ All content has been faithfully replicated from https://mannmaker.in/ including:
 - ✅ Footer information
 - ✅ Page hierarchy
 - ✅ Contact details
-- ✅ Branding (The Mann Maker by Ranjan Kalindi Sir)
+- ✅ Branding (Course Website by Ranjan Kalindi Sir)
 - ✅ External links (Google Play Store, Creators Mind)
 
 ---
@@ -152,7 +152,7 @@ All content has been faithfully replicated from https://mannmaker.in/ including:
 - **Email**: support@themannmaker.com
 - **Phone**: +91 XXX XXX XXXX
 - **Instructor**: Ranjan Kalindi Sir
-- **Platform**: The Mann Maker - Premium Education Platform
+- **Platform**: Course Website - Premium Education Platform
 
 ---
 

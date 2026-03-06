@@ -408,9 +408,7 @@ body {
 
 /* Footer */
 .footer {
-    background: rgba(34, 44, 54, 0.5);
-    /* 50% dark transparency */
-    backdrop-filter: blur(10px);
+    background: #000000;
     padding: var(--spacing-2xl) 0 var(--spacing-md);
     border-top: 1px solid rgba(255, 255, 255, 0.1);
 }
@@ -436,43 +434,37 @@ body {
     font-size: 1.125rem;
     font-weight: 600;
     margin-bottom: var(--spacing-md);
-    color: #1e293b;
-    /* Darker */
+    color: #ffffff;
 }
 
 .footer-column p {
-    color: #475569;
-    /* Darker for all generic text in footer */
+    color: #e2e8f0;
 }
 
 .footer-tagline {
     font-size: 0.875rem;
-    color: #475569;
-    /* Darker */
+    color: #e2e8f0;
     margin-bottom: var(--spacing-md);
     font-weight: 500;
 }
 
 .footer-description {
     font-size: 0.9375rem;
-    color: #1e293b;
-    /* Darker */
+    color: #cbd5e1;
     margin-bottom: var(--spacing-sm);
     line-height: 1.7;
 }
 
 .organizations {
     font-size: 0.9375rem;
-    color: var(--primary-dark);
-    /* Using darker primary */
+    color: var(--primary-light);
     font-weight: 600;
     margin-bottom: var(--spacing-sm);
 }
 
 .footer-motto {
     font-size: 1rem;
-    color: #1e293b;
-    /* Darker */
+    color: #ffffff;
     font-weight: 700;
     margin-top: var(--spacing-md);
     margin-bottom: var(--spacing-md);
@@ -495,8 +487,7 @@ body {
 }
 
 .footer-contact a {
-    color: #1e293b;
-    /* Darker */
+    color: #cbd5e1;
     text-decoration: none;
     transition: color var(--transition-base);
 }
@@ -514,8 +505,7 @@ body {
 }
 
 .footer-links a {
-    color: #1e293b;
-    /* Darker */
+    color: #cbd5e1;
     text-decoration: none;
     transition: all var(--transition-base);
     display: inline-block;
@@ -536,15 +526,12 @@ body {
     width: 2.5rem;
     height: 2.5rem;
     border-radius: 50%;
-    background: rgba(0, 0, 0, 0.05);
-    /* Darker background */
-    border: 1px solid rgba(0, 0, 0, 0.1);
-    /* Darker border */
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.1);
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #1e293b;
-    /* Darker */
+    color: #ffffff;
     text-decoration: none;
     transition: all var(--transition-base);
 }
@@ -582,8 +569,7 @@ body {
 }
 
 .footer-bottom p {
-    color: #475569;
-    /* Darker */
+    color: #94a3b8;
     font-size: 0.9375rem;
 }
 
@@ -593,8 +579,7 @@ body {
 }
 
 .footer-bottom-links a {
-    color: #1e293b;
-    /* Darker */
+    color: #cbd5e1;
     text-decoration: none;
     font-size: 0.9375rem;
     transition: color var(--transition-base);

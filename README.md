@@ -1,10 +1,10 @@
-# The Mann Maker - Website Clone
+# Course Website - Website Clone
 
 A detailed and exact clone of the mannmaker.in educational platform website.
 
 ## Overview
 
-This is a complete clone of The Mann Maker learning platform, featuring modern web design with gradient backgrounds, smooth animations, and a responsive layout.
+This is a complete clone of Course Website learning platform, featuring modern web design with gradient backgrounds, smooth animations, and a responsive layout.
 
 ## Features
 
@@ -110,4 +110,4 @@ This is a clone project created for educational purposes.
 
 ---
 
-© 2026 The Mann Maker. All rights reserved.
+© 2026 Course Website. All rights reserved.
