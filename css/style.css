@@ -408,7 +408,9 @@ body {
 
 /* Footer */
 .footer {
-    background: #000000;
+    background: rgba(34, 44, 54, 0.5);
+    /* 50% dark transparency */
+    backdrop-filter: blur(10px);
     padding: var(--spacing-2xl) 0 var(--spacing-md);
     border-top: 1px solid rgba(255, 255, 255, 0.1);
 }
@@ -434,37 +436,43 @@ body {
     font-size: 1.125rem;
     font-weight: 600;
     margin-bottom: var(--spacing-md);
-    color: #ffffff;
+    color: #1e293b;
+    /* Darker */
 }
 
 .footer-column p {
-    color: #e2e8f0;
+    color: #475569;
+    /* Darker for all generic text in footer */
 }
 
 .footer-tagline {
     font-size: 0.875rem;
-    color: #e2e8f0;
+    color: #475569;
+    /* Darker */
     margin-bottom: var(--spacing-md);
     font-weight: 500;
 }
 
 .footer-description {
     font-size: 0.9375rem;
-    color: #cbd5e1;
+    color: #1e293b;
+    /* Darker */
     margin-bottom: var(--spacing-sm);
     line-height: 1.7;
 }
 
 .organizations {
     font-size: 0.9375rem;
-    color: var(--primary-light);
+    color: var(--primary-dark);
+    /* Using darker primary */
     font-weight: 600;
     margin-bottom: var(--spacing-sm);
 }
 
 .footer-motto {
     font-size: 1rem;
-    color: #ffffff;
+    color: #1e293b;
+    /* Darker */
     font-weight: 700;
     margin-top: var(--spacing-md);
     margin-bottom: var(--spacing-md);
@@ -487,7 +495,8 @@ body {
 }
 
 .footer-contact a {
-    color: #cbd5e1;
+    color: #1e293b;
+    /* Darker */
     text-decoration: none;
     transition: color var(--transition-base);
 }
@@ -505,7 +514,8 @@ body {
 }
 
 .footer-links a {
-    color: #cbd5e1;
+    color: #1e293b;
+    /* Darker */
     text-decoration: none;
     transition: all var(--transition-base);
     display: inline-block;
@@ -526,12 +536,15 @@ body {
     width: 2.5rem;
     height: 2.5rem;
     border-radius: 50%;
-    background: rgba(255, 255, 255, 0.05);
-    border: 1px solid rgba(255, 255, 255, 0.1);
+    background: rgba(0, 0, 0, 0.05);
+    /* Darker background */
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    /* Darker border */
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #ffffff;
+    color: #1e293b;
+    /* Darker */
     text-decoration: none;
     transition: all var(--transition-base);
 }
@@ -569,7 +582,8 @@ body {
 }
 
 .footer-bottom p {
-    color: #94a3b8;
+    color: #475569;
+    /* Darker */
     font-size: 0.9375rem;
 }
 
@@ -579,7 +593,8 @@ body {
 }
 
 .footer-bottom-links a {
-    color: #cbd5e1;
+    color: #1e293b;
+    /* Darker */
     text-decoration: none;
     font-size: 0.9375rem;
     transition: color var(--transition-base);
